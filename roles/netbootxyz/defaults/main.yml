@@ -1,4 +1,4 @@
-boot_domain: boot.netboot.xyz
+boot_domain: pxe.stvital.io
 boot_timeout: 300000
 boot_version: 2.x
 bootloader_disks:
